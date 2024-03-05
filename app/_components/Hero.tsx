@@ -13,7 +13,7 @@ function Hero() {
   <div className="mx-auto h-screen max-w-screen-xl px-4 py-12 lg:flex  ">
     <div className="mx-auto max-w-xl text-center">
       <h1 className="text-3xl text-sky-300 font-extrabold sm:text-5xl">
-      Documents & diagrams
+      Documents & diagrams With raushang4
         <strong className="font-extrabold text-white sm:block"> 
         for engineering teams. </strong>
       </h1>
